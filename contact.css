@@ -1,0 +1,16 @@
+.image-sizes{
+    width: 30vw;
+    height: 60vh;
+}
+
+h1{
+    font-weight: 900;
+}
+
+p{
+    color: rgb(89, 86, 86);
+}
+.form-control{
+    padding: 5px 10px;
+    
+}
